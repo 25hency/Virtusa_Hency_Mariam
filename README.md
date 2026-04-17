@@ -8,7 +8,6 @@ Command-line app for tracking daily expenses.
 
 **Run:**
 ```bash
-cd expense-tracker
 python expense_tracker.py
 ```
 
@@ -43,9 +42,7 @@ App for managing books, users, and fines.
 
 **Run:**
 ```bash
-cd library-management
 javac LibraryManagement.java
-java LibraryGUI
 ```
 
 **Tools:** Java Swing, OOP, Collections, MVC Pattern
